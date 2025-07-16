@@ -10,7 +10,7 @@
  1. Install dependencies:
    pip install ultralytics opencv-python
 
- 2. Upload your video file (e.g., broadcast.mp4) to your Colab or local directory.
+ 2. Upload your video file (e.g., broadcast.mp4 Input video) to your Colab or local directory.
     
  3. Run the Python code to:
    - Initialize YOLO model.
